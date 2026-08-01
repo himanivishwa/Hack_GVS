@@ -1,0 +1,24 @@
+Qty,Value,,price (USD),price(INR),link
+1,1uF,,$0.031,3,https://quartzcomponents.com/products/50v-1uf-electrolytic-capacitor
+5,01x02 5mm screw terminal,,$0.066,6.32,https://sharvielectronics.com/product/zb126-2-pin-screw-terminal-block-black-5mm-pitch/
+2,10k,,$0.084,8,https://quartzcomponents.com/collections/all/products/10k-ohm-1-4-watt-resistor-with-1-tolerance-pack-of-10
+1,550 ohm resistor,,$0.084,8,https://quartzcomponents.com/products/560-ohm-1-4-watt-resistor-with-1-tolerance-pack-of-10
+1,100k,,$0.094,9,https://quartzcomponents.com/collections/all/products/100k-ohm-1-4-watt-resistor-with-1-tolerance-pack-of-10
+1,TL082,,$0.42,39.63,https://sharvielectronics.com/product/tl082-jfet-input-operational-amplifier-ic-dip-8-package/
+2,9V battery,,,,
+8,1.5v cell,,,,
+1,microcontroller,,$4.88,465.79,https://sharvielectronics.com/product/raspberry-pi-pico-rp2040-pre-soldered-headers/
+2,9V battery holder,,$0.27,25.45,https://sharvielectronics.com/product/9v-battery-holder-without-cover/
+2,4xAAA holder,,$0.5,48,https://sharvielectronics.com/product/battery-holder-4xaaa/
+,,,,,
+,PCB,,$2 ,190.77,https://jlcpcb.com/
+,E-post pcb shipping,,$7.71 ,735.42,
+,,,,,
+,quartz shipping,,$0.52,50,
+,quartz tax,,$0.16,15.66,
+,,,,,
+,Sharvielect IGST 18% ,,$1.39,132.71,
+,sharvielect shipping,,$0.89,85,
+,,,,,
+,,,,Total,
+,,,,1822.75,
